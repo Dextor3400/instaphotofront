@@ -220,7 +220,7 @@
         <div class="row border d-flex align-items-center">
             <div class="col-8 ">
                 <img class="card-img-top img-fluid"
-                    src="https://lh3.googleusercontent.com/OjdD_Ku1fEwjscwAD0jPmtl4HoKfWUkWkBbuMI23NM0l8zccN8fi4ZbQDw_qRTyIu-1oJ1Th0zS-3_lfU938cX3p5ICoo3CV5L0lr6T1taJzo7k-ir7vjt4jKpmuXOdruqVbJgeuCRVeSWrOn7MT5mTbmFJxD4sRGikDz5TgUYigmzS9EDX1IpIP6jAE4XXv9LqRZ_QiZ2jK4YTWNbIYCKRTdIRQ4ZAUrtiUZr70ExJI37zAg0pxr5q5tYn4TUB5ArqJS8YUcbZnlX_ON7tVbQLl4RpPGBxAirFxYDuWTEA5rh6_KKiIbaHbWsh5F47oXJF3XSP729HUqXLDAZ6qoKSYs5x2TrT-YQxLnKzMUAopo_DRXqrQ278gQMEbB_ce_l-0R59YXUEj8V9r8kAEWUp3RxjLqXLO1YAd4tiC-bbt7IotY53wVTUnWdn0eosHw5eMA1s6MAh9u9pSH3Xd0ZllS8IMW1j_LWJij1zbpEwXE_FzmSA1o71nTMZDHeaxCYzADnFOO8KRTgMAG7zy1-VDbmvcQ_d8OogyWR0617O0BZ5ZozSyyAvlnXUEcE3XXtCLgTkhJNheIr2wmRy5S3VOPL9mQDx9OACyCTp7g0x1f8lN74eOcRq4yrCtsMe0AQnNpfOK2F6IyZTCXjMKAkUDZf9bVx8BBQ0wvGxzMPUMmI26xwTBCZjknhzMyg=w1204-h903-no?authuser=0"
+                    src="images/other/IMG_20190524_212552.jpg"
                     alt="Card image cap">
             </div>
             <div class="col-4 border-left">
