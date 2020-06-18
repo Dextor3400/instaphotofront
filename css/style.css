@@ -1,0 +1,16 @@
+@font-face {
+  src: url(css/fonts/proximareg/ProximaNova-Regular.otf);
+  src: url(css/fonts/proximabold/Proxima-Nova-Alt-Extra-Condensed-Bold.otf);
+  src: url(css/fonts/proximalight/Proxima-Nova-Alt-Light.otf);
+  font-family: proxima,sans-serif;
+}
+
+body {
+  font-family: "proxima";
+  overflow-x: hidden;
+}
+
+#notifications a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
