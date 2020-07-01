@@ -16,7 +16,7 @@
     <title>InstaPhoto</title>
 </head>
 
-<body>
+<body class=>
     <!---------------------------NAVIGATION--------------------------->
     <nav class="navbar navbar-expand navbar-light bg-light mb-3 border-bottom">
         <div class="container">
@@ -218,12 +218,15 @@
     <!---------------------------MAIN CONTENT--------------------------->
     <div class="container pt-5">
         <div class="row">
-            <div class="col-5 text-center align-items-center">
+            <div class="col-md-6 text-center align-items-center">
                 <a href=""><img height="200px" class="rounded-circle" src="/images/31820677_1996837767056360_6738977556290076672_n.jpg"></a>
             </div>
-            <div class="col-5 mt-4">
+            <div class="col-md-6 mt-4">
                 <div class="row d-flex align-items-center mb-3">
-                    <p class="m-0 mr-3 h4">RaczIgor</p>
+                    <div>
+
+                    </div>
+                    <p class="ml-3 m-0 mr-3 h4">RaczIgor</p>
                     <button class="py-1 px-2 btn btn-light mr-3 border"><a href="profile-settings.php" style="color: black;">Profil Módosítása</a></button>
                    
 
@@ -257,7 +260,7 @@
                 </div>
                 <div class="row">
                     <div class="d-flex">
-                        <div class="mr-4 h5">
+                        <div class="ml-3 mr-4 h5">
                             103 bejegyzés
                         </div>
                         <div class="mr-4 h5">
@@ -533,7 +536,7 @@
                         
                     </div>
                 </div>
-                <div class="row">
+                <div class="row ml-1">
                     RaczIgor
                 </div>
             </div>
@@ -616,13 +619,7 @@
                         alt="" srcset="">
                 </a>
             </div>
-        </div>
-            
-            
-            
-            
-   
-        
+        </div> 
     </div>
     <!---------------------------MAIN CONTENT END--------------------------->
     <!---------------------------FOOTER START--------------------------->

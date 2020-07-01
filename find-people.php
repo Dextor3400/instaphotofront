@@ -221,22 +221,22 @@
             <h5>
                 Felfedezés
             </h5>
-            <div class="row ">
-            <div class="col-md-12 col-lg mt-2">
+        <div class="row ">
+            <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
                     <img class="img-fluid"
                         src="/images/other/1.jpg"
                         alt="" srcset="">
                 </a>
             </div>
-            <div class="col-md-12 col-lg mt-2">
+            <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
                     <img class="img-fluid"
                         src="/images/other/2.jpg"
                         alt="" srcset="">
                 </a>
             </div>
-            <div class="col-md-12 col-lg mt-2">
+            <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
                     <img class="img-fluid"
                         src="/images/other/3.jpg"
@@ -270,168 +270,36 @@
         <div class="row ">
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/7.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/1.jpg" alt="" srcset="">
                 </a>
             </div>
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/8.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/2.jpg" alt="" srcset="">
                 </a>
             </div>
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/9.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="row ">
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/1.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/2.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/3.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/3.jpg" alt="" srcset="">
                 </a>
             </div>
         </div>
         <div class="row ">
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/4.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/4.jpg" alt="" srcset="">
                 </a>
             </div>
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/5.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/5.jpg" alt="" srcset="">
                 </a>
             </div>
             <div class="col-md-12 col-lg mt-4">
                 <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/6.jpg"
-                        alt="" srcset="">
+                    <img class="img-fluid" src="/images/other/6.jpg" alt="" srcset="">
                 </a>
             </div>
-        </div>
-        <div class="row ">
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/7.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/8.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/9.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="row ">
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/1.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/2.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-2">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/3.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-        </div>
-        <div class="row ">
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/4.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/5.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/6.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-        </div>
-        <div class="row ">
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/7.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/8.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            <div class="col-md-12 col-lg mt-4">
-                <a href="single-post.php">
-                    <img class="img-fluid"
-                        src="/images/other/9.jpg"
-                        alt="" srcset="">
-                </a>
-            </div>
-            
-            
-            
-            
-            
-            
-            
         </div>
     </div>
     <!---------------------------MAIN CONTENT END--------------------------->
