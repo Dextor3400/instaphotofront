@@ -20,7 +20,6 @@
     <!---------------------------NAVIGATION--------------------------->
     <nav class="navbar navbar-expand navbar-light bg-light mb-3 border-bottom">
         <div class="container">
-            <a class="nav-link text-center" href="ozonsite.php">Mi is az?</a>
             <a class="navbar-brand" href="index.php">InstaPhoto</a>
             
                 <ul class="navbar-nav mx-auto">
